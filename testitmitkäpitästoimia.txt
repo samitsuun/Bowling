@@ -1,0 +1,6 @@
+1. KaikkiRänniin = 0
+2. JokaKierroksellaVäh1Piste = 20
+3. SpareTest
+4. StrikeTest
+5. TäydellinenPeli(kaikki kiekat strikejä) = 300
+6. RandomNumeroillaTehty"OikeaPeli" = Oikea tulos
